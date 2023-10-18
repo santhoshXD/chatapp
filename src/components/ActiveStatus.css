@@ -1,0 +1,65 @@
+.top-div {
+    height:90%;
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+    /* background-color: #e2eef7; */
+    border-bottom: 1px solid #dbe6ef;
+    
+    
+}
+
+.top-box {
+    margin-right: 20px;
+}
+
+.top-profile {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.top-name {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    /* background-color: aqua; */
+    padding-bottom: 20px;
+    /* height: 100%; */
+    
+
+}
+
+h2 {
+    font-size: 18px;
+    margin: 0%;
+    text-align: left;
+    cursor: pointer;
+    color: #364d5d;
+}
+
+p {
+    font-size: 14px;
+    margin: 0;
+    cursor: pointer;
+    text-align: left;
+    color: #364d5d;
+}
+
+
+.top-icons{
+    display: flex;
+    /* background-color: aquamarine; */
+    position: absolute;
+    right: 40px;
+    
+}
+
+
+
+.phone, .video{
+     padding : 10px;
+     cursor: pointer;
+     
+}
