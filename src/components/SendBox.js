@@ -3,7 +3,8 @@ import data from './data.json'
 import './SendBox.css'
 import { BsEmojiLaughing } from 'react-icons/bs'
 
-const SendBox = ({sendChat}) => {
+const SendBox = ({sendChat,darkMode}) => {
+  const darkicons = data["darkmode"]
 
     const [input, setInput] = useState('');
 
@@ -28,8 +29,12 @@ const SendBox = ({sendChat}) => {
             <input className='type-msg' type='text' placeholder='Your message here...' value={input} onChange={handleInput}/>
             </div>
             <div className='image-container'> 
-            <img src={data.messagebox.url} alt='d' />
-            <img className='send-image' onClick={handleSend} src={data.messagebox.urlsend} alt='e' />
+            { !darkMode ? (
+            <img src={data.messagebox.url} alt='d' />) : <img alt='e' src={darkicons.attach}/>
+}           
+              {!darkMode ? (
+            <img className='send-image' onClick={handleSend} src={data.messagebox.urlsend} alt='e' />):(<img alt='f' src={darkicons.send}/>)
+              }
             </div>
         </div>
     )

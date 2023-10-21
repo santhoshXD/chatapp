@@ -5,9 +5,13 @@ import PopUp from './PopUp'
 
 
 const ChatHistory = (props) => {
-    const {search} = props
+    const {search,darkMode} = props
     console.log(search)
     let hrflag = false
+
+
+    
+    
 
 
     const[showImage,setShowImage] =useState(false)
@@ -40,7 +44,7 @@ const ChatHistory = (props) => {
 
   
     return (
-        <div className='chat-history'>
+        <div className={`chat-history ${darkMode ? 'dark-mode' : ''}`}>
             {
             loading ? (
              <LoadingScreen/>
@@ -54,7 +58,7 @@ const ChatHistory = (props) => {
                         <div className="chat-div"  >
                             <div className='msg-history' >
                                 <div className='img-div'>
-                                    <img className='user-img' alt='true' src={user.profile} onClick={() => handlePopup(user.profile)}  />
+                                    <img className='user-img' alt='true' src={user.profile} onClick={() => handlePopup(user)}  />
                                 </div>
                                 <div className='msg-text'  onClick={() => props.handleSelectUser(user)}>
                                     <div className="usertime">
@@ -77,6 +81,8 @@ const ChatHistory = (props) => {
                         imageSrc={popupImage}
                         onclose={()=> setPopupImage(false)}
                         showImage ={showImage}
+                        users = {users}
+                        darkMode ={darkMode}
                         />
                     )
                 }

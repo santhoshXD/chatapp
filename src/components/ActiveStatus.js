@@ -2,17 +2,18 @@ import React from 'react';
 import './ActiveStatus.css'
 import images from './data.json'
 
-const ActiveStatus = ({ user }) => {
+const ActiveStatus = ({ user ,darkMode}) => {
 
   const img = images["calls"]
+  const darkicon = images["darkmode"]
   return (
-    <div className='top-div'>
+    <div className={`top-div ${darkMode ? 'dark-mode' : ''}`}>
       <div className='top-box'>
         {user ? (
           <img className='top-profile' src={user.profile} alt='user-profile' />) : ("")
         }
       </div>
-      <div className='top-name'>
+      <div className={`top-name ${darkMode ? 'dark-mode' : ''}`}>
         <div>
         <h2>{user.name}</h2>
         <p>{user.currentstatus}</p>
@@ -21,14 +22,16 @@ const ActiveStatus = ({ user }) => {
 
         
       </div>
-      <div className='top-icons'>
+      
+      <div className={`top-icons ${darkMode ? 'dark-mode' : ''}`}>
 
-          {user ? (
-            <img className='video' src={img.video} alt='video' />
-          ) : ("")}
-          {user ? (
-            <img className='phone' src={img.phone} alt='phone' />
-          ) : ("")}
+          {! darkMode ? (
+            <img className={`video ${darkMode ? 'dark-mode' : ''}`} src={img.video} alt='video'/>) : (<img className={`video ${darkMode ? 'dark-mode' : ''}`} src={darkicon.phone} alt='phone'/>)}
+            
+        
+           { !darkMode ? (<img className={`phone ${darkMode ? 'dark-mode' : ''}`} src={img.phone} alt='phone'/>) : (<img className={`video ${darkMode ? 'dark-mode' : ''}`} src={darkicon.video} alt='video'/>)}
+            
+          
         </div>
 
     </div>

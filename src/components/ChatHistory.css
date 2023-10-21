@@ -28,6 +28,7 @@
   height: 90vh;
   background-color: #ebf4fb;
   color: #364d5d;
+  width: 100%;
 }
 
 
@@ -58,6 +59,8 @@
 
 .msg-history {
   display: flex;
+  /* background-color: aquamarine; */
+  width:100%;
 }
 
 .img-div {
@@ -68,8 +71,12 @@
 }
 
 .msg-text {
-  max-width: 800%;
+  
+  /* background-color: aqua; */
+  /* max-width: 800%; */
   cursor: pointer;
+  width:75%;
+  
 }
 
 
@@ -111,16 +118,13 @@
 
 
 .usertime{
-  width: 20vw;
+  width: 22vw;
   /* background-color: aqua; */
   display: flex;
   justify-content: space-between;
 }
 
-.usertime p{
-  color:black ;
-  padding-top: 5px;
-}
+
 
 
 .hr{
@@ -143,3 +147,29 @@
 } 
 
 
+
+
+
+
+.chat-history.dark-mode {
+  background-color: #181f2e;
+  color: white;
+}
+
+
+.chat-history.dark-mode p{
+  color: whitesmoke !important;
+}
+
+
+.time{
+  /* background-color: aqua; */
+  padding-top: 5px;
+  width: 100% ;
+  color:#364d5d !important;
+  text-align: right;
+}
+
+.time.dark-mode{
+  color: white !important;
+}

@@ -37,3 +37,20 @@
     color:grey;
     padding-left:10px ;
 }
+
+.icon.dark-mode{
+  color: #181f2e !important;
+}
+ 
+  .search-div.dark-mode {
+    background-color: #181f2e ;
+    color: #fff;
+  }
+  
+
+  .search-div.dark-mode .icon {
+    color: #fff;
+  }
+  
+  /* Add more styles as needed */
+  

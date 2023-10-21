@@ -6,7 +6,7 @@ import {FaSearch} from "react-icons/fa"
 
 
 
-const SearchBar = ({onSearch}) => {
+const SearchBar = ({onSearch ,darkMode}) => {
   const[search, setSearch] = useState("")
 
   const handleSearch = (e) =>{
@@ -19,10 +19,10 @@ const SearchBar = ({onSearch}) => {
 
 
   return (
-    <div className='search-div'>
+    <div className={`search-div ${darkMode ? 'dark-mode' : ""}`}>
       <div className='search-bar'>
         <div className='search-icon'> 
-        <p ><FaSearch className='icon'/></p>
+        <p ><FaSearch className={`icon ${darkMode ? 'dark-mode' : ""}`}/></p>
         </div>
       <input className='search-input' placeholder= 'Search chats...'  value={search} onChange={handleSearch}/>
       </div>

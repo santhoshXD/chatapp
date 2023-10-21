@@ -9,6 +9,15 @@
     
 }
 
+.top-name.dark-mode h2 {
+    color: whitesmoke;
+}
+
+.top-name.dark-mode p {
+    color: whitesmoke;
+}
+
+
 .top-box {
     margin-right: 20px;
 }
@@ -62,4 +71,8 @@ p {
      padding : 10px;
      cursor: pointer;
      
+}
+
+.phone, .video .dark-mode{
+    padding:10px;
 }

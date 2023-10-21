@@ -1,27 +1,26 @@
-
-.container{
+.container {
     display: flex;
-    width:  100%;
+    width: 100%;
 }
 
 
-.profile-div{
+.profile-div {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 10vh;
-    background-color: 	#141a26;
-    
+    background-color: #141a26;
+
 }
 
-.profile{
+.profile {
     width: 50px;
     border-radius: 30px;
-    transition: transform 0.3s ease-in-out; 
+    transition: transform 0.3s ease-in-out;
 
 }
 
-.profile:hover{
+.profile:hover {
     transform: scale(1.2);
 }
 
@@ -31,33 +30,34 @@
 } */
 
 
-.settings{
+.settings {
     cursor: pointer;
     padding: 10px;
-    
+
 
 }
 
 
-.sidebar{
-    background-color:	#181f2e;
+.sidebar {
+    background-color: #181f2e;
     width: 5%;
     height: 100vh;
-    
+
 }
-.bottom-sidebar{
+
+.bottom-sidebar {
     background-color: #202a3f;
-    position:absolute;
+    position: absolute;
     bottom: 0%;
     width: 5%;
-    
+
 }
 
-.images{
-    padding-top: 10px;   
+.images {
+    padding-top: 10px;
 }
 
-.images2{
+.images2 {
     padding-top: 10px;
 }
 
@@ -66,27 +66,27 @@
     background-color: #181f2e;
 } */
 
-.img{
+.img {
     width: 100%;
     height: 90vh;
 }
 
 
-.chats{
+.chats {
     /* background-color: lightgray; */
     width: 30%;
 }
 
-.chatbox{
+.chatbox {
     /* background-color: darkcyan; */
     width: 65%;
     height: 100vh;
     display: flex;
     flex-direction: column;
-    
+
 }
 
-.active-status{
+.active-status {
     /* min-height: 100px; */
     height: 10%;
     /* max-height: 10%; */
@@ -96,29 +96,78 @@
     /* background-color: aquamarine; */
 }
 
-.send-boxx{
+.send-boxx {
     height: 10%;
     /* min-height: 30px; */
 }
 
-.chat-box{
+.chat-box {
     height: 80%;
 }
 
-.user-p, .user-h2{
+.user-p,
+.user-h2 {
     margin: 0%;
     padding-left: 10px;
     text-align: left;
 }
 
-.settings::after{
-   background-color: #fd5050;
-}
-
-.selected{
+.settings::after {
     background-color: #fd5050;
 }
 
-.selected2{
+.selected {
     background-color: #fd5050;
 }
+
+.selected2 {
+    background-color: #fd5050;
+}
+
+
+/* Profile.css */
+/* Light Mode */
+.container.lightmode {
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Dark Mode */
+  .container.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  
+  /* .sidebar.dark-mode {
+    background-color: #222;
+  } */
+  
+
+  .profile-div.dark-mode {
+    border: 2px solid #fff;
+  }
+  
+  .chatbox.dark-mode {
+    background-color: #111;
+    color: #fff;
+  }
+  
+ 
+  .chatbox.dark-mode, .chats.dark-mode {
+    background-color: #181f2e;
+    color: #fff;
+  }
+  
+  .chatbox.dark-mode .active-status.dark-mode {
+    background-color: #181f2e;
+    color: #ccc;
+  }
+  
+
+  .darkmode-toggle{
+    width: 10vh;
+    cursor: pointer;
+  }
+
+ 
