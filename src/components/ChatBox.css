@@ -102,6 +102,7 @@
   .default-msg{
     padding-left:10%;
     padding-top: 25%;
+    padding-bottom: 30%;
     /* color: #181f2e; */
     color: red;
     font-size: larger;
@@ -114,12 +115,12 @@
 
   .sent-div{
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     flex-direction: column;
 
    }
 
    .sent{
-    padding: 10px;
+    /* padding: 10px; */
     border-radius: 30px;
    }

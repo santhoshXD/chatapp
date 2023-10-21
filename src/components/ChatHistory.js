@@ -35,7 +35,7 @@ const ChatHistory = (props) => {
             <div className='loading-spinner'>
             </div>
             <div>
-            <p>Loading Chats...</p>
+            <p></p>
             </div>
           </div>
         );
