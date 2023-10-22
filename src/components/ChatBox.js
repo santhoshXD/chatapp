@@ -1,12 +1,12 @@
 import React from 'react';
 import './ChatBox.css';
 import chats from './chatdetails.json'
-// import data from './data.json'
+import data from './data.json'
 
 const ChatBox = ({ user, messagess, darkmode }) => {
   const messages = chats[user.conversionid] || [];
   // const dimages = data["default-image"]
-  // const tick = data["tick"]
+  const tick = data["tick"]
 
 
 
@@ -27,13 +27,16 @@ const ChatBox = ({ user, messagess, darkmode }) => {
                   <div className='message-content' >{message.message}</div>
                 ) : ""}
               {message.messagetype === 'image' ? (
-                <div><img className="chat-img" src={message.image} alt='imagee' /></div>) : ""
+                <div><img className="chat-img" src={message.image} alt='image' /></div>) : ""
               }
-              {/* <div className={`message-time ${message.sender === '000000' ? 'sent-time' : 'received-time'}`}>
-                {message.status}
-              </div> */}
               <div className={`message-time ${message.sender === '000000' ? 'sent-time' : 'received-time'}`}>
-                <img src={message.status} alt='tick' />
+                {message.sender === '000000' ? (
+                    message.status === 'seen' ? (
+                      <img className="chat-img seen-tick" src={tick.seen} alt='image' />
+                    ) : (
+                      <img className="chat-img sent-tick" src={tick.sent} alt='image' />
+                    )
+                  ) : null}
               </div>
             </div>
           ))}

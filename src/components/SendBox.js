@@ -21,15 +21,23 @@ const SendBox = ({sendChat,darkMode}) => {
         }
       }
 
+
+      const handleKeyPress = (e) =>{
+        if (e.key === 'Enter'){
+          e.preventDefault()
+          handleSend()
+        }
+      }
+
     return (
         <div className='send-box' >
            
             <div className='input-container'> 
             <BsEmojiLaughing className='emoji'/>
-            <input className='type-msg' type='text' placeholder='Your message here...' value={input} onChange={handleInput}/>
+            <input className='type-msg' type='text' placeholder='Your message here...' value={input} onChange={handleInput} onKeyPress={handleKeyPress}/>
             </div>
             <div className='image-container'> 
-            { !darkMode ? (
+            { ! darkMode ? (
             <img src={data.messagebox.url} alt='d' />) : <img alt='e' src={darkicons.attach}/>
 }           
               {!darkMode ? (

@@ -27,7 +27,7 @@
             "messsageid": "msg00002",
             "sender": "000000",
             "recipient": "000002",
-            "status": "sent",
+            "status": "received",
             "time": "09:30 am"
         }
     },
@@ -43,7 +43,7 @@
             "messsageid": "msg00003",
             "sender": "000000",
             "recipient": "000003",
-            "status": "delivery",
+            "status": "received",
             "time": " 15:59 pm"
         }
     },
@@ -59,7 +59,7 @@
             "messsageid": "msg00004",
             "sender": "000000",
             "recipient": "000004",
-            "status": "read",
+            "status": "received",
             "time": "20:05 am"
         }
     },
@@ -91,7 +91,7 @@
             "messsageid": "msg00011",
             "sender": "000000",
             "recipient": "000006",
-            "status": "sent",
+            "status": "received",
             "time": "10:10 am"
         }
     },
@@ -123,7 +123,7 @@
             "messsageid": "msg00011",
             "sender": "000000",
             "recipient": "000008",
-            "status": "sent",
+            "status": "received",
             "time": "09:10 pm"
         }
     },
@@ -139,7 +139,7 @@
             "messsageid": "msg00091",
             "sender": "000000",
             "recipient": "000009",
-            "status": "sent",
+            "status": "received",
             "time": "10:15 pm"
         }
     },
@@ -203,7 +203,7 @@
             "messsageid": "msg13001",
             "sender": "000000",
             "recipient": "000013",
-            "status": "sent",
+            "status": "received",
             "time": "11:00 am"
         }
     },
@@ -235,8 +235,15 @@
             "messsageid": "msg15001",
             "sender": "000000",
             "recipient": "000015",
-            "status": "sent",
+            "status": "received",
             "time": "09:30 am"
         }
+    },
+    {
+        "userid": "000016",
+        "name": "Nanthan",
+        "currentstatus": "busy",
+        "profile": "https://img.freepik.com/premium-photo/photo-businesswoman_889227-37078.jpg",
+        "conversionid": "dm000016"
     }
 ]

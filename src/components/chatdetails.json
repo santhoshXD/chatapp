@@ -6,7 +6,7 @@
             "messsageid": "msg00001",
             "sender": "000000",
             "recipient": "000001",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:32:00"
         },
         {
@@ -15,7 +15,7 @@
             "messsageid": "msg00002",
             "sender": "000001",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-05 09:15:00"
         },
         {
@@ -24,7 +24,7 @@
             "messsageid": "msg00003",
             "sender": "000000",
             "recipient": "000001",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-10-04 14:20:00"
         },
         {
@@ -33,7 +33,7 @@
             "messsageid": "msg00004",
             "sender": "000001",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-03 17:45:00"
         },
         {
@@ -42,7 +42,7 @@
             "messsageid": "msg00005",
             "sender": "000000",
             "recipient": "000001",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-02 10:30:00"
         },
         {
@@ -51,7 +51,7 @@
             "messsageid": "msg00006",
             "sender": "000001",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-01 16:10:00"
         },
         {
@@ -60,7 +60,7 @@
             "messsageid": "msg00007",
             "sender": "000000",
             "recipient": "000001",
-            "status":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status":"send",
             "time": "2023-09-30 20:55:00"
         },
         {
@@ -69,7 +69,7 @@
             "messsageid": "msg00008",
             "sender": "000001",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-09-29 12:40:00"
         },
         {
@@ -78,7 +78,7 @@
             "messsageid": "msg00009",
             "sender": "000000",
             "recipient": "000001",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-09-28 07:30:00"
         },
         {
@@ -87,7 +87,7 @@
             "messsageid": "msg00010",
             "sender": "000001",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-09-27 19:05:00"
         }
     ],
@@ -98,7 +98,7 @@
             "messsageid": "msg00002",
             "sender": "000000",
             "recipient": "000002",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-05 09:30:10"
         },
         {
@@ -107,7 +107,7 @@
             "messageid": "msg00002",
             "sender": "000002",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-06 08:31:00"
         },
         {
@@ -116,7 +116,7 @@
             "messageid": "msg00003",
             "sender": "000000",
             "recipient": "000002",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:30:00"
         },
         {
@@ -125,7 +125,7 @@
             "messageid": "msg00004",
             "sender": "000002",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 08:29:00"
         },
         {
@@ -134,7 +134,7 @@
             "messageid": "msg00005",
             "sender": "000000",
             "recipient": "000002",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:28:00"
         },
         {
@@ -143,7 +143,7 @@
             "messageid": "msg00006",
             "sender": "000002",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 08:27:00"
         },
         {
@@ -152,7 +152,7 @@
             "messageid": "msg00007",
             "sender": "000000",
             "recipient": "000002",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-10-06 08:26:00"
         },
         {
@@ -161,7 +161,7 @@
             "messageid": "msg00008",
             "sender": "000002",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 08:25:00"
         },
         {
@@ -170,7 +170,7 @@
             "messageid": "msg00009",
             "sender": "000000",
             "recipient": "000002",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:24:00"
         },
         {
@@ -179,7 +179,7 @@
             "messageid": "msg00010",
             "sender": "000002",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-06 08:23:00"
         }
     ],
@@ -190,7 +190,7 @@
             "messsageid": "msg00003",
             "sender": "000000",
             "recipient": "000003",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-09-30 15:59:55"
         },
         {
@@ -199,7 +199,7 @@
             "messageid": "msg00112",
             "sender": "000003",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 08:35:00"
         },
         {
@@ -208,7 +208,7 @@
             "messageid": "msg00113",
             "sender": "000000",
             "recipient": "000003",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-10-06 08:38:00"
         },
         {
@@ -217,7 +217,7 @@
             "messageid": "msg00114",
             "sender": "000003",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 08:40:00"
         },
         {
@@ -226,7 +226,7 @@
             "messageid": "msg00115",
             "sender": "000000",
             "recipient": "000003",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:42:00"
         },
         {
@@ -235,7 +235,7 @@
             "messageid": "msg00116",
             "sender": "000003",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 08:45:00"
         },
         {
@@ -244,7 +244,7 @@
             "messageid": "msg00117",
             "sender": "000000",
             "recipient": "000003",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:48:00"
         },
         {
@@ -253,7 +253,7 @@
             "messageid": "msg00118",
             "sender": "000003",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-06 08:50:00"
         },
         {
@@ -262,7 +262,7 @@
             "messageid": "msg00119",
             "sender": "000000",
             "recipient": "000003",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:55:00"
         },
         {
@@ -271,7 +271,7 @@
             "messageid": "msg00120",
             "sender": "000003",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 08:58:00"
         }
     ],
@@ -282,7 +282,7 @@
             "messsageid": "msg00004",
             "sender": "000000",
             "recipient": "000004",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-10-20 20:05:20"
         },
         {
@@ -291,7 +291,7 @@
             "messageid": "msg02222",
             "sender": "000004",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 08:33:00"
         },
         {
@@ -300,7 +300,7 @@
             "messageid": "msg03333",
             "sender": "000000",
             "recipient": "000004",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:34:00"
         },
         {
@@ -309,7 +309,7 @@
             "messageid": "msg04444",
             "sender": "000004",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 08:35:00"
         },
         {
@@ -318,7 +318,7 @@
             "messageid": "msg05555",
             "sender": "000000",
             "recipient": "000004",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:36:00"
         },
         {
@@ -327,7 +327,7 @@
             "messageid": "msg06666",
             "sender": "000004",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-06 08:37:00"
         },
         {
@@ -336,7 +336,7 @@
             "messageid": "msg07777",
             "sender": "000000",
             "recipient": "000004",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:38:00"
         },
         {
@@ -345,7 +345,7 @@
             "messageid": "msg08888",
             "sender": "000004",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 08:39:00"
         },
         {
@@ -354,7 +354,7 @@
             "messageid": "msg09999",
             "sender": "000000",
             "recipient": "000004",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 08:40:00"
         },
         {
@@ -363,7 +363,7 @@
             "messageid": "msg10000",
             "sender": "000004",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-06 08:41:00"
         }
     ],
@@ -374,7 +374,7 @@
             "messsageid": "msg00005",
             "sender": "000000",
             "recipient": "000005",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-12-12 10:34:40"
         },
         {
@@ -383,7 +383,7 @@
             "messsageid": "msg22222",
             "sender": "000005",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-05 15:20:00"
         },
         {
@@ -392,7 +392,7 @@
             "messsageid": "msg33333",
             "sender": "000000",
             "recipient": "000005",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-04 10:45:00"
         },
         {
@@ -401,7 +401,7 @@
             "messsageid": "msg44444",
             "sender": "000005",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-03 20:15:00"
         },
         {
@@ -410,7 +410,7 @@
             "messsageid": "msg55555",
             "sender": "000000",
             "recipient": "000005",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-02 12:00:00"
         },
         {
@@ -419,7 +419,7 @@
             "messsageid": "msg66666",
             "sender": "000005",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-01 18:30:00"
         },
         {
@@ -428,7 +428,7 @@
             "messsageid": "msg77777",
             "sender": "000000",
             "recipient": "000005",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-09-30 09:10:00"
         },
         {
@@ -437,7 +437,7 @@
             "messsageid": "msg88888",
             "sender": "000005",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-09-29 17:45:00"
         },
         {
@@ -446,7 +446,7 @@
             "messsageid": "msg99999",
             "sender": "000000",
             "recipient": "000005",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-09-28 14:25:00"
         },
         {
@@ -455,7 +455,7 @@
             "messsageid": "msg101010",
             "sender": "000005",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-09-27 22:55:00"
         }
     ],
@@ -466,7 +466,7 @@
             "messsageid": "msg00011",
             "sender": "000000",
             "recipient": "000006",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 10:10:00"
         },
         {
@@ -475,7 +475,7 @@
             "messsageid": "msg00012",
             "sender": "000006",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 10:20:00"
         },
         {
@@ -484,7 +484,7 @@
             "messsageid": "msg00013",
             "sender": "000000",
             "recipient": "000006",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 10:23:00"
         },
         {
@@ -493,7 +493,7 @@
             "messsageid": "msg00014",
             "sender": "000006",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-06 10:25:00"
         },
         {
@@ -502,7 +502,7 @@
             "messsageid": "msg00015",
             "sender": "000000",
             "recipient": "000006",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 10:30:00"
         },
         {
@@ -511,7 +511,7 @@
             "messsageid": "msg00016",
             "sender": "000006",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 10:32:00"
         },
         {
@@ -520,7 +520,7 @@
             "messsageid": "msg00017",
             "sender": "000000",
             "recipient": "000006",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 10:35:00"
         },
         {
@@ -529,7 +529,7 @@
             "messsageid": "msg00018",
             "sender": "000006",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-06 10:40:00"
         },
         {
@@ -538,7 +538,7 @@
             "messsageid": "msg00019",
             "sender": "000000",
             "recipient": "000006",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 10:50:00"
         },
         {
@@ -547,7 +547,7 @@
             "messsageid": "msg00020",
             "sender": "000006",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 10:55:00"
         }
     ],
@@ -558,7 +558,7 @@
             "messsageid": "msg00011",
             "sender": "000000",
             "recipient": "000007",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+t",
+            "status": "sendt",
             "time": "2023-10-15 08:45:00"
         },
         {
@@ -567,7 +567,7 @@
             "messsageid": "msg00012",
             "sender": "000007",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-14 09:20:00"
         },
         {
@@ -576,7 +576,7 @@
             "messsageid": "msg00013",
             "sender": "000000",
             "recipient": "000007",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-10-13 10:15:00"
         },
         {
@@ -585,7 +585,7 @@
             "messsageid": "msg00014",
             "sender": "000007",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-12 11:25:00"
         },
         {
@@ -594,7 +594,7 @@
             "messsageid": "msg00015",
             "sender": "000000",
             "recipient": "000007",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-11 12:35:00"
         },
         {
@@ -603,7 +603,7 @@
             "messsageid": "msg00016",
             "sender": "000007",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-10 13:45:00"
         },
         {
@@ -612,7 +612,7 @@
             "messsageid": "msg00017",
             "sender": "000000",
             "recipient": "000007",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-10-09 14:55:00"
         },
         {
@@ -621,7 +621,7 @@
             "messsageid": "msg00018",
             "sender": "000007",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-08 16:05:00"
         },
         {
@@ -630,7 +630,7 @@
             "messsageid": "msg00019",
             "sender": "000000",
             "recipient": "000007",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-07 17:15:00"
         },
         {
@@ -639,7 +639,7 @@
             "messsageid": "msg00020",
             "sender": "000007",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 18:25:00"
         },
         {
@@ -648,7 +648,7 @@
             "messsageid": "msg00021",
             "sender": "000000",
             "recipient": "000007",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 19:30:00"
         },
         {
@@ -657,7 +657,7 @@
             "messsageid": "msg00022",
             "sender": "000007",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-06 20:35:00"
         },
         {
@@ -666,7 +666,7 @@
             "messsageid": "msg00023",
             "sender": "000000",
             "recipient": "000007",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 21:40:00"
         },
         {
@@ -675,7 +675,7 @@
             "messsageid": "msg00024",
             "sender": "000007",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-06 22:45:00"
         },
         {
@@ -684,7 +684,7 @@
             "messsageid": "msg00025",
             "sender": "000000",
             "recipient": "000007",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 23:50:00"
         }
     ],
@@ -695,7 +695,7 @@
             "messsageid": "msg00011",
             "sender": "000000",
             "recipient": "000008",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-10 09:10:00"
         },
         {
@@ -704,7 +704,7 @@
             "messsageid": "msg00012",
             "sender": "000008",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-10 09:30:00"
         },
         {
@@ -713,7 +713,7 @@
             "messsageid": "msg00013",
             "sender": "000000",
             "recipient": "000008",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-10 09:45:00"
         },
         {
@@ -722,7 +722,7 @@
             "messsageid": "msg00014",
             "sender": "000008",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-10 10:00:00"
         },
         {
@@ -731,7 +731,7 @@
             "messsageid": "msg00015",
             "sender": "000000",
             "recipient": "000008",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-10 10:15:00"
         }
     ],
@@ -742,7 +742,7 @@
             "messsageid": "msg00091",
             "sender": "000000",
             "recipient": "000009",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-11-06 10:15:00"
         },
         {
@@ -751,7 +751,7 @@
             "messsageid": "msg00092",
             "sender": "000009",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-11-06 10:30:00"
         }
     ],
@@ -762,7 +762,7 @@
             "messsageid": "msg01001",
             "sender": "000010",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-11 09:00:00"
         },
         {
@@ -771,7 +771,7 @@
             "messsageid": "msg01002",
             "sender": "000000",
             "recipient": "000010",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-11 09:15:00"
         },
         {
@@ -780,7 +780,7 @@
             "messsageid": "msg01003",
             "sender": "000010",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-11 09:20:00"
         }
     ],
@@ -791,7 +791,7 @@
             "messsageid": "msg01101",
             "sender": "000011",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-12 11:00:00"
         },
         {
@@ -800,7 +800,7 @@
             "messsageid": "msg01102",
             "sender": "000000",
             "recipient": "000011",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-12 11:05:00"
         },
         {
@@ -809,7 +809,7 @@
             "messsageid": "msg01103",
             "sender": "000011",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-10-12 11:10:00"
         }
     ],
@@ -820,7 +820,7 @@
             "messsageid": "msg12001",
             "sender": "000000",
             "recipient": "000012",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 09:10:00"
         },
         {
@@ -829,7 +829,7 @@
             "messsageid": "msg12002",
             "sender": "000012",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-05 10:20:00"
         },
         {
@@ -838,7 +838,7 @@
             "messsageid": "msg12003",
             "sender": "000000",
             "recipient": "000012",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-04 15:10:00"
         },
         {
@@ -847,7 +847,7 @@
             "messsageid": "msg12004",
             "sender": "000012",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-03 18:00:00"
         }
     ],
@@ -858,7 +858,7 @@
             "messsageid": "msg13001",
             "sender": "000000",
             "recipient": "000013",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-05 11:00:00"
         },
         {
@@ -867,7 +867,7 @@
             "messsageid": "msg13002",
             "sender": "000013",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-04 11:30:00"
         },
         {
@@ -876,7 +876,7 @@
             "messsageid": "msg13003",
             "sender": "000000",
             "recipient": "000013",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-10-03 14:10:00"
         },
         {
@@ -885,7 +885,7 @@
             "messsageid": "msg13004",
             "sender": "000013",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-02 16:50:00"
         },
         {
@@ -894,7 +894,7 @@
             "messsageid": "msg13005",
             "sender": "000000",
             "recipient": "000013",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-01 17:20:00"
         },
         {
@@ -903,7 +903,7 @@
             "messsageid": "msg13006",
             "sender": "000013",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-09-30 17:50:00"
         }
     ],
@@ -914,7 +914,7 @@
             "messsageid": "msg14001",
             "sender": "000000",
             "recipient": "000014",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "seen",
             "time": "2023-10-06 08:45:00"
         },
         {
@@ -923,7 +923,7 @@
             "messsageid": "msg14002",
             "sender": "000014",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-05 10:40:00"
         },
         {
@@ -932,7 +932,7 @@
             "messsageid": "msg14003",
             "sender": "000000",
             "recipient": "000014",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-04 11:10:00"
         },
         {
@@ -941,7 +941,7 @@
             "messsageid": "msg14004",
             "sender": "000014",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-03 12:10:00"
         },
         {
@@ -950,7 +950,7 @@
             "messsageid": "msg14005",
             "sender": "000000",
             "recipient": "000014",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-02 12:50:00"
         },
         {
@@ -959,7 +959,7 @@
             "messsageid": "msg14006",
             "sender": "000014",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "received",
             "time": "2023-10-01 13:20:00"
         },
         {
@@ -968,7 +968,7 @@
             "messsageid": "msg14007",
             "sender": "000000",
             "recipient": "000014",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-09-30 14:00:00"
         },
         {
@@ -977,7 +977,7 @@
             "messsageid": "msg14008",
             "sender": "000014",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-09-29 14:30:00"
         }
     ],
@@ -988,7 +988,7 @@
             "messsageid": "msg15001",
             "sender": "000000",
             "recipient": "000015",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtY2hlY2stY2hlY2siPjxwYXRoIGQ9Ik0xOCA2IDcgMTdsLTUtNSIvPjxwYXRoIGQ9Im0yMiAxMC03LjUgNy41TDEzIDE2Ii8+PC9zdmc+",
+            "status": "send",
             "time": "2023-10-06 09:30:00"
         },
         {
@@ -997,8 +997,10 @@
             "messsageid": "msg15002",
             "sender": "000015",
             "recipient": "000000",
-            "status": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzNjRkNWQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jaGVjayI+PHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiLz48L3N2Zz4=",
+            "status": "seen",
             "time": "2023-10-05 10:50:00"
         }
+    ],
+    "dm000016": [
     ]
 }

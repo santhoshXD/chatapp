@@ -18,8 +18,8 @@ const ChatHistory = (props) => {
     const[popupImage, setPopupImage] =useState('')
     
     const [loading,setLoading] = useState(true)
-
-
+  
+    
     useEffect(()=>{
         setTimeout(() => {setLoading(false)}, 500);
     }, [])
@@ -40,6 +40,9 @@ const ChatHistory = (props) => {
           </div>
         );
       };
+
+
+      
 
 
   
@@ -63,9 +66,9 @@ const ChatHistory = (props) => {
                                 <div className='msg-text'  onClick={() => props.handleSelectUser(user)}>
                                     <div className="usertime">
                                     <h5 className='profile-name'>{user.name}</h5>
-                                    <p className='time'>{user.lastmessage.time}</p>
+                                    <p className='time'>{user.lastmessage?.time}</p>
                                     </div>
-                                    <p className='profile-msg'>{user.lastmessage.message}</p>
+                                    <p className='profile-msg'>{user.lastmessage?.message}</p>
                                 </div>
                             </div>
                         </div>

@@ -124,3 +124,14 @@
     /* padding: 10px; */
     border-radius: 30px;
    }
+
+.sent-tick {
+  width: 16px; 
+  height: 16px; 
+}
+
+.seen-tick {
+  width: 16px; 
+  height: 16px; 
+  
+}
