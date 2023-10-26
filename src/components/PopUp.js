@@ -1,27 +1,44 @@
-import React from 'react';
+import React, { useEffect, useRef } from 'react';
 import data from './data.json';
-import './PopUp.css'
+import './PopUp.css';
 
 const PopUp = (props) => {
   const { imageSrc, onclose, showImage, darkMode } = props;
   const wrong = data["default-image"];
-  const pop = data["popup"]
-  const darkmode = data["darkmode"]
-  console.log(showImage)
+  const pop = data["popup"];
+  const darkmode = data["darkmode"];
 
+  const popupRef = useRef(null);
 
+  useEffect(() => {
+    const handleOutsideClick = (event) => {
+      if (popupRef.current && !popupRef.current.contains(event.target)) {
+        onclose();
+      }
+    };
 
-  if (!imageSrc) {
+    if (showImage) {
+      document.addEventListener('mousedown', handleOutsideClick);
+    }
+
+    return () => {
+      document.removeEventListener('mousedown', handleOutsideClick);
+    };
+  }, [showImage, onclose]);
+
+  if (!showImage || !imageSrc) {
     return null;
   }
 
-
   return (
-    <div className={`image-popup ${darkMode ? "dark-mode" : ''}`}>
-      <div className={`popup-content ${darkMode ? "dark-mode" : ''}`}>
+    <div className={`image-popup ${darkMode ? 'dark-mode' : ''}`} ref={popupRef}>
+      <div className={`popup-content ${darkMode ? 'dark-mode' : ''}`}>
         <img className="popup-img" src={imageSrc.profile} alt='Profile' />
-        {! darkMode ? (
-        <img className='wrong' src={wrong.close} onClick={onclose} alt='close' />):(<img className='wrong' src={darkmode.close} onClick={onclose} alt='close'/>)}
+        {!darkMode ? (
+          <img className='wrong' src={wrong.close} onClick={onclose} alt='close' />
+        ) : (
+          <img className='wrong' src={darkmode.close} onClick={onclose} alt='close' />
+        )}
         <div className="user-info">
           <h1>{imageSrc.name}</h1>
           <p>{imageSrc.currentstatus}</p>
@@ -29,13 +46,21 @@ const PopUp = (props) => {
         <div className='popup-dtl'>
           <div className='pop-item'>
             {!darkMode ? (
-              <img className='pop-img' src={pop.msgpop} alt='msg' />) : (<img src={darkmode.chat} alt='chat' />)
-            }{!darkMode ? (
-              <img className='pop-img' src={pop.phonepop} alt='phone' />) : (<img src={darkmode.phone} alt='phone' />)
-            }{!darkMode ? (
-              <img className='pop-img' src={pop.videopop} alt='video' />) : (<img src={darkmode.video} alt='video' />)}
+              <img className='pop-img' src={pop.msgpop} alt='msg' />
+            ) : (
+              <img src={darkmode.chat} alt='chat' />
+            )}
+            {!darkMode ? (
+              <img className='pop-img' src={pop.phonepop} alt='phone' />
+            ) : (
+              <img src={darkmode.phone} alt='phone' />
+            )}
+            {!darkMode ? (
+              <img className='pop-img' src={pop.videopop} alt='video' />
+            ) : (
+              <img src={darkmode.video} alt='video' />
+            )}
           </div>
-
         </div>
       </div>
     </div>

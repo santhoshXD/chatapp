@@ -1,6 +1,7 @@
 import React from 'react';
 import './ActiveStatus.css'
 import images from './data.json'
+import {PiDotOutlineFill} from "react-icons/pi"
 
 const ActiveStatus = ({ user ,darkMode}) => {
 
@@ -16,11 +17,18 @@ const ActiveStatus = ({ user ,darkMode}) => {
       <div className={`top-name ${darkMode ? 'dark-mode' : ''}`}>
         <div>
         <h2>{user.name}</h2>
-        <p>{user.currentstatus}</p>
+        {user.currentstatus === 'active' ? (
+          <p className='active-status'>
+            <PiDotOutlineFill size={30} className='active-icon' />
+            {user.currentstatus}
+          </p>
+        ) : (
+          <p className='inactive-status'>
+           <PiDotOutlineFill size={30} className='in-active-icon' />
+            {user.currentstatus}
+          </p>
+        )}
         </div>
-
-
-        
       </div>
       
       <div className={`top-icons ${darkMode ? 'dark-mode' : ''}`}>

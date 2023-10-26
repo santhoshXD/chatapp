@@ -24,6 +24,23 @@ const ChatHistory = (props) => {
         setTimeout(() => {setLoading(false)}, 500);
     }, [])
 
+
+    useEffect(() => {
+        fetch('http://127.0.0.1:1234/gethistroy')
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error('Network response was not ok');
+            }
+            return response.json();
+          })
+          .then((data) => {
+            console.log(data[0].conversionid); // Handle the data here
+          })
+          .catch((error) => {
+            console.error('Error fetching data:', error);
+          });
+      }, []);
+      
     const handlePopup = (imageSrc) =>{
         setPopupImage(imageSrc)
         setShowImage(true)
@@ -40,9 +57,6 @@ const ChatHistory = (props) => {
           </div>
         );
       };
-
-
-      
 
 
   
@@ -83,6 +97,7 @@ const ChatHistory = (props) => {
                         <PopUp
                         imageSrc={popupImage}
                         onclose={()=> setPopupImage(false)}
+                       
                         showImage ={showImage}
                         users = {users}
                         darkMode ={darkMode}

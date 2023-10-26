@@ -73,7 +73,8 @@
 
 
 .chats {
-    /* background-color: lightgray; */
+    /* border-right: 1px solid white; */
+    box-shadow: 5px 0px  10px #ffffff;
     width: 30%;
 }
 
@@ -83,6 +84,7 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
+    box-shadow: 5px 0px  10px #ffffff;
 
 }
 

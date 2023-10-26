@@ -1,0 +1,249 @@
+[
+    {
+        "userid": "000001",
+        "name": "John",
+        "currentstatus": "active",
+        "profile": "https://blog-pixomatic.s3.appcnt.com/image/22/01/26/61f166e1e3b25/_orig/pixomatic_1572877090227.png",
+        "conversionid": "dm000001",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hello, how can I assist you today?",
+            "messsageid": "msg00001",
+            "sender": "000000",
+            "recipient": "000001",
+            "status": "sent",
+            "time": " 08:32 am"
+        }
+    },
+    {
+        "userid": "000002",
+        "name": "Mary",
+        "currentstatus": "active",
+        "profile": "https://img.freepik.com/premium-photo/photo-businesswoman_889227-37078.jpg",
+        "conversionid": "dm000002",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hi there! What can I help you with",
+            "messsageid": "msg00002",
+            "sender": "000000",
+            "recipient": "000002",
+            "status": "received",
+            "time": "09:30 am"
+        }
+    },
+    {
+        "userid": "000003",
+        "name": "David",
+        "currentstatus": "busy",
+        "profile": "https://www.sportspromedia.com/wp-content/uploads/2022/08/Chatri-Sityodtong-1.jpg",
+        "conversionid": "dm000003",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Good morning! How may I be of service?",
+            "messsageid": "msg00003",
+            "sender": "000000",
+            "recipient": "000003",
+            "status": "received",
+            "time": " 15:59 pm"
+        }
+    },
+    {
+        "userid": "000004",
+        "name": "Sarah",
+        "currentstatus": "away",
+        "profile": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+        "conversionid": "dm000004",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hey, is there something specific you'd like to know",
+            "messsageid": "msg00004",
+            "sender": "000000",
+            "recipient": "000004",
+            "status": "received",
+            "time": "20:05 am"
+        }
+    },
+    {
+        "userid": "000005",
+        "name": "Michael",
+        "currentstatus": "active",
+        "profile": "https://cdn.statusqueen.com/dpimages/thumbnail/Boy_Stylish__Dp_Image-2277.jpg",
+        "conversionid": "dm000005",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hello, I'm here to answer your questions.",
+            "messsageid": "msg00005",
+            "sender": "000000",
+            "recipient": "000005",
+            "status": "sent",
+            "time": "10:34 pm"
+        }
+    },
+    {
+        "userid": "000006",
+        "name": "Jane",
+        "currentstatus": "active",
+        "profile": "https://blog-pixomatic.s3.appcnt.com/image/22/01/26/61f166e1e3b25/_orig/pixomatic_1572877090227.png",
+        "conversionid": "dm000006",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hey there, how can I help you?",
+            "messsageid": "msg00011",
+            "sender": "000000",
+            "recipient": "000006",
+            "status": "received",
+            "time": "10:10 am"
+        }
+    },
+    {
+        "userid": "000007",
+        "name": "Robert",
+        "currentstatus": "active",
+        "profile": "https://blog-pixomatic.s3.appcnt.com/image/22/01/26/61f166e1e3b25/_orig/pixomatic_1572877090227.png",
+        "conversionid": "dm000007",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hi, how's everything?",
+            "messsageid": "msg00011",
+            "sender": "000000",
+            "recipient": "000007",
+            "status": "sent",
+            "time": "08:45 pm"
+        }
+    },
+    {
+        "userid": "000008",
+        "name": "Emily",
+        "currentstatus": "active",
+        "profile": "https://blog-pixomatic.s3.appcnt.com/image/22/01/26/61f166e1e3b25/_orig/pixomatic_1572877090227.png",
+        "conversionid": "dm000008",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hi there! Hope you're doing well.",
+            "messsageid": "msg00011",
+            "sender": "000000",
+            "recipient": "000008",
+            "status": "received",
+            "time": "09:10 pm"
+        }
+    },
+    {
+        "userid": "000009",
+        "name": "William",
+        "currentstatus": "active",
+        "profile": "https://likhowithpride.com/site/assets/files/1108/opulent-profile-square-07.jpg",
+        "conversionid": "dm000009",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hello! What's new?",
+            "messsageid": "msg00091",
+            "sender": "000000",
+            "recipient": "000009",
+            "status": "received",
+            "time": "10:15 pm"
+        }
+    },
+    {
+        "userid": "000010",
+        "name": "Sophia",
+        "currentstatus": "active",
+        "profile": "https://elireview.com/wp-content/uploads/2016/12/reed-profile-square.jpg",
+        "conversionid": "dm000010",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hey, are you available today?",
+            "messsageid": "msg01001",
+            "sender": "000010",
+            "recipient": "000000",
+            "status": "sent",
+            "time": "09:00 pm"
+        }
+    },
+    {
+        "userid": "000011",
+        "name": "Michael",
+        "currentstatus": "active",
+        "profile": "https://simplybeautysydney.files.wordpress.com/2013/01/brad-profile-square.jpg",
+        "conversionid": "dm000011",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Did you get the email I sent?",
+            "messsageid": "msg01101",
+            "sender": "000011",
+            "recipient": "000000",
+            "status": "sent",
+            "time": "11:00 am"
+        }
+    },
+    {
+        "userid": "000012",
+        "name": "Linda",
+        "currentstatus": "active",
+        "profile": "https://welivedhappilyeverafter.com/wp-content/uploads/2017/06/Profile-Pic-square.png",
+        "conversionid": "dm000012",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hello there!",
+            "messsageid": "msg12001",
+            "sender": "000000",
+            "recipient": "000012",
+            "status": "sent",
+            "time": "09:10 am"
+        }
+    },
+    {
+        "userid": "000013",
+        "name": "David",
+        "currentstatus": "active",
+        "profile": "https://www.shareicon.net/data/2016/07/05/791224_man_512x512.png",
+        "conversionid": "dm000013",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Good day!",
+            "messsageid": "msg13001",
+            "sender": "000000",
+            "recipient": "000013",
+            "status": "received",
+            "time": "11:00 am"
+        }
+    },
+    {
+        "userid": "000014",
+        "name": "Grace",
+        "currentstatus": "active",
+        "profile": "https://nanny.org/wp-content/uploads/2021/11/profile-square.jpeg",
+        "conversionid": "dm000014",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hey!",
+            "messsageid": "msg14001",
+            "sender": "000000",
+            "recipient": "000014",
+            "status": "sent",
+            "time": "08:45 pm"
+        }
+    },
+    {
+        "userid": "000015",
+        "name": "Richard",
+        "currentstatus": "active",
+        "profile": "https://www.ruder.io/content/images/2023/01/new_profile_photo_square.jpg",
+        "conversionid": "dm000015",
+        "lastmessage": {
+            "messagetype": "text",
+            "message": "Hi, I need help!",
+            "messsageid": "msg15001",
+            "sender": "000000",
+            "recipient": "000015",
+            "status": "received",
+            "time": "09:30 am"
+        }
+    },
+    {
+        "userid": "000016",
+        "name": "Nanthan",
+        "currentstatus": "busy",
+        "profile": "https://img.freepik.com/premium-photo/photo-businesswoman_889227-37078.jpg",
+        "conversionid": "dm000016"
+    }
+]

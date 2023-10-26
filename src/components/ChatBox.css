@@ -2,20 +2,31 @@
     padding: 10px;
     /* background-color: #40E0D0; */
     overflow-y: scroll;
-    height: 95%; 
+    height: 95%;
+    width: 63vw;
     display: flex;
     flex-direction: column-reverse;
   }
   
 
+
+
   .message-box.dark-mode {
+
     color: white;
   }
 
   .message {
     padding: 10px;
     border-radius: 30px;
-    /* word-break: break-word; */
+
+    margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+  max-width: 70%;
+  word-wrap: break-word;
+  position: relative;
+ 
   }
   
 
@@ -30,22 +41,34 @@
     color: #ffd7d7;
     align-self: flex-end;
     text-align: right;
-    /* margin-left: auto;
-    min-width: 200px;
-    max-width: 400px; */
+    max-height: 200px;
+    
+    
   }
   
+
+  /* .sent::before {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #f04242;
+    clip-path: polygon(100% 0, 0 0, 0 100%);
+    top: 0;
+  } */
+
+
+
 
   .received {
     background-color: #ebf4fb;
     color:#4b6679;
     align-self: flex-start;
     text-align: left;
-    /* margin-right: auto;
-    min-width: 200px;
-    max-width: 400px; */
     
   }
+
+ 
   
 
   .message-content {
@@ -122,10 +145,6 @@
 
    }
 
-   .sent{
-    /* padding: 10px; */
-    border-radius: 30px;
-   }
 
 .sent-tick {
   width: 16px; 
@@ -137,3 +156,56 @@
   height: 16px; 
   
 }
+
+.chat-img received-tick{
+  width: 16px;
+  height: 16px;
+}
+
+.message-content{
+  max-width: 400px;
+  overflow: hidden;
+}
+
+.sent-div p{
+  background-color:#f04242;
+    color: #ffd7d7 ;
+    align-self: flex-end;
+    text-align: right;
+    max-height: 200px;
+    /* min-width: 100px;
+    min-height: 30px; */
+}
+
+.sent:after{
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+  left: -16px;
+	right: auto;
+  top: 0px;
+	bottom: auto;
+	border: 20px solid;
+	border-color:#f04242 transparent transparent transparent;
+}
+
+
+.received:after{
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: auto; 
+  right: -16px; 
+  top: 0px;
+  bottom: auto;
+  border: 20px solid;
+  transform: rotate(-5deg);
+  border-color:  #ebf4fb transparent transparent transparent;
+}
+
+
+
+
+

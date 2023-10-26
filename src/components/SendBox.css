@@ -8,6 +8,8 @@
     /* background-color: #e2eef7; */
     border-top: 1px solid #dbe6ef;
     
+    
+    
 }
 
 .input-container{
@@ -51,6 +53,16 @@ textarea::placeholder {
 }
 
 .send-image:active{
+    color: aqua;
+    transform: rotateX(50deg) ;
+}
+
+.send-image.dark-mode{
+    transition: transform 0.1s;
+    cursor: pointer;
+}
+
+.send-image.dark-mode:active{
     color: aqua;
     transform: rotateX(50deg ) ;
 }

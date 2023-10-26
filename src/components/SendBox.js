@@ -41,7 +41,7 @@ const SendBox = ({sendChat,darkMode}) => {
             <img src={data.messagebox.url} alt='d' />) : <img alt='e' src={darkicons.attach}/>
 }           
               {!darkMode ? (
-            <img className='send-image' onClick={handleSend} src={data.messagebox.urlsend} alt='e' />):(<img alt='f' src={darkicons.send}/>)
+            <img className={`send-image ${darkMode ? 'dark-mode' : '' }`} onClick={handleSend} src={data.messagebox.urlsend} alt='e' />):(<img alt='f' src={darkicons.send}/>)
               }
             </div>
         </div>
