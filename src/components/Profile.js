@@ -13,7 +13,7 @@ const Profile = () => {
     const profile = data["profile"];
     const [search, setSearch] = useState('');
     const [selectedUser, setSelectedUser] = useState("");
-    const [input, setInput] = useState('');
+    const [input, setInput] = useState([]);
     const [selectedDiv, setSelectedDiv] = useState(null);
     const [selectedDiv2, setSelectedDiv2] = useState(null);
 
@@ -42,7 +42,16 @@ const Profile = () => {
     };
 
     const handleSend = (messagess) => {
-        setInput([messagess]);
+        const chatMsg = [{
+            "messagetype": "text",
+             "message": `${messagess}`,
+             "messsageid": "msg00001",
+             "sender": "000000",
+             "recipient": "000001",
+             "status": "send",
+             "time": "2023-10-06 08:32:00"
+  }]
+        setInput([...chatMsg,...input]);
     };
 
     const handleDivClick = (index) => {
@@ -52,6 +61,8 @@ const Profile = () => {
     const handleDivClick2 = (index) => {
         setSelectedDiv2(index);
     };
+
+
 
     return (
         <div className={`container ${darkMode ? 'dark-mode' : ''}`}>

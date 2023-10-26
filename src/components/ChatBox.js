@@ -70,27 +70,28 @@ const ChatBox = ({ user, messagess, darkmode }) => {
   const tick = data["tick"];
 
 
-  const chatMsg = {
-            "messagetype": "text",
-             "message": `${messagess}`,
-             "messsageid": "msg00001",
-             "sender": "000000",
-             "recipient": "000001",
-             "status": "send",
-             "time": "2023-10-06 08:32:00"
-  }
+  // const chatMsg = [{
+  //           "messagetype": "text",
+  //            "message": `${messagess}`,
+  //            "messsageid": "msg00001",
+  //            "sender": "000000",
+  //            "recipient": "000001",
+  //            "status": "send",
+  //            "time": "2023-10-06 08:32:00"
+  // }]
 
-   const chatMessage = JSON.stringify(chatMsg)
+  //  let  chatMessage = JSON.stringify(chatMsg)
 
-   console.log(chatMessage)
+  //  console.log("DEBUG :: ",chatMsg," :: ", chatMessage)
+   
   
 
-  const updatedMessages = [...messages,...messagess];
+  const updatedMessages = [...messagess,...messages];
 
 
-  console.log('message:', messages)
-  console.log('messagess:', messagess);
-  console.log('updatedMessages:', updatedMessages);
+  // console.log('message:', messages)
+  // console.log('messagess:', messagess);
+  // console.log('updatedMessages:', updatedMessages);
 
   return (
     <div className={`message-box ${darkmode ? 'dark-mode' : ''} `}>
@@ -131,11 +132,5 @@ const ChatBox = ({ user, messagess, darkmode }) => {
 }
 
 export default ChatBox;
-
-
-
-
-
-
 
 
