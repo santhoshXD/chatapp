@@ -32,6 +32,7 @@
     transform: scale(1.4);
     /* padding-top: 10px; */
     padding-right: 25px;
+    cursor: pointer;
 
     display: flex;
     align-items: center;
@@ -50,6 +51,7 @@ textarea::placeholder {
 
 .send-image{
     transition: transform 0.1s;
+    cursor: pointer;
 }
 
 .send-image:active{
@@ -58,11 +60,14 @@ textarea::placeholder {
 }
 
 .send-image.dark-mode{
-    transition: transform 0.1s;
+    cursor: pointer !important;
+}
+
+
+.attach{
     cursor: pointer;
 }
 
-.send-image.dark-mode:active{
-    color: aqua;
-    transform: rotateX(50deg ) ;
+.attach.dark-mode{
+    cursor: pointer;
 }

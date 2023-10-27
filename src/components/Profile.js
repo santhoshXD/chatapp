@@ -18,6 +18,7 @@ const Profile = () => {
     const [selectedDiv2, setSelectedDiv2] = useState(null);
 
 
+
  const initialDarkMode = localStorage.getItem('darkMode') === 'true';
  const [darkMode, setDarkMode] = useState(initialDarkMode);
 
@@ -41,10 +42,10 @@ const Profile = () => {
         console.log(input);
     };
 
-    const handleSend = (messagess) => {
+    const handleSend = (message) => {
         const chatMsg = [{
             "messagetype": "text",
-             "message": `${messagess}`,
+             "message": `${message}`,
              "messsageid": "msg00001",
              "sender": "000000",
              "recipient": "000001",
@@ -54,19 +55,27 @@ const Profile = () => {
         setInput([...chatMsg,...input]);
     };
 
+    
+
     const handleDivClick = (index) => {
         setSelectedDiv(index);
     };
 
-    const handleDivClick2 = (index) => {
-        setSelectedDiv2(index);
-    };
+    // const handleDivClick2 = (index) => {
+    //     setSelectedDiv2(index);
+    // };
+   
 
+    const[expand,setExpand] = useState(false)
 
+    const handleExpand = () =>{
+        setExpand(!expand)
+    }
+   
 
     return (
-        <div className={`container ${darkMode ? 'dark-mode' : ''}`}>
-            <div className={`sidebar ${darkMode ? 'dark-mode' : ''}`}>
+        <div className={`container ${darkMode ? 'dark-mode' : ''}  `}  >
+            <div className={`sidebar ${darkMode ? 'dark-mode' : ''} ${expand ? 'expand' : ''}            `}>
                 <div className='profile-div'>
                     <img className='profile' src={profile.url} alt={profile.alt} />
                 </div>
@@ -75,25 +84,33 @@ const Profile = () => {
                         className={`images ${selectedDiv === index ? 'selected' : ''}`}
                         onClick={() => handleDivClick(index)}
                     >
+                        <p className={`image-text ${expand ? 'visible' : 'hidden'}`}>
+                    {image.name}
+                  </p>
                         <img className='settings' key={image.id} src={image.url} alt='settings' />
-                    </div>
+                </div>
+                    
+                    
                 ))}
-                <div className="dark-mode-toggle" onClick={toggleDarkMode}>
+                
+                <div className={`bottom-sidebar ${darkMode ? 'dark-mode' : ''}  ${expand ? 'expand' : ''} ` } >
+                <div className="dark-mode-toggle" onClick={toggleDarkMode} >
                     {darkMode ? (
-                        <img className="dark-icons" alt='icon' src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtbW9vbiI+PHBhdGggZD0iTTEyIDNhNiA2IDAgMCAwIDkgOSA5IDkgMCAxIDEtOS05WiIvPjwvc3ZnPg==' />
+                        
+                        <img className="dark-icons" alt='icon' src={data.darkicon}/>
                     ) : (
-                        <img className="light-icons" alt='icon' src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtc3VuLW1vb24iPjxwYXRoIGQ9Ik0xMiA4YTIuODMgMi44MyAwIDAgMCA0IDQgNCA0IDAgMSAxLTQtNCIvPjxwYXRoIGQ9Ik0xMiAydjIiLz48cGF0aCBkPSJNMTIgMjB2MiIvPjxwYXRoIGQ9Im00LjkgNC45IDEuNCAxLjQiLz48cGF0aCBkPSJtMTcuNyAxNy43IDEuNCAxLjQiLz48cGF0aCBkPSJNMiAxMmgyIi8+PHBhdGggZD0iTTIwIDEyaDIiLz48cGF0aCBkPSJtNi4zIDE3LjctMS40IDEuNCIvPjxwYXRoIGQ9Im0xOS4xIDQuOS0xLjQgMS40Ii8+PC9zdmc+' />
+                        <img className="light-icons" alt='icon' src={data.lighticon}/>
                     )}
                 </div>
-                <div className={`bottom-sidebar ${darkMode ? 'dark-mode' : ''}`}>
-                    {images2.map((image2, index) => (
+                        
                         <div
-                            className={`images2 ${selectedDiv2 === index ? 'selected2' : ''}`}
-                            onClick={() => handleDivClick2(index)}
-                        >
-                            <img className='settings' key={image2.id} src={image2.url} alt='settings' />
+                            className= 'images2'
+                            onClick={handleExpand}>
+                            
+                            <img className='settings' src={data.leftsettings} alt='settings'  />
+                            
                         </div>
-                    ))}
+                   
                 </div>
             </div>
             <div className='chats'>
@@ -105,7 +122,7 @@ const Profile = () => {
                     {selectedUser ? <ActiveStatus darkMode={darkMode} user={selectedUser} /> : ""}
                 </div>
                 <div className='chat-box'>
-                    <ChatBox user={selectedUser} messagess={input} darkMode={darkMode} />
+                    <ChatBox user={selectedUser} newChat={input} darkMode={darkMode} />
                 </div>
                 <div className={`send-boxx ${darkMode ? 'dark-mode' : ''}`}>
                     {selectedUser ? (

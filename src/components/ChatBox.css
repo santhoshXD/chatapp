@@ -46,18 +46,10 @@
     
   }
   
+.message.received{
+  margin-left: 20px;
 
-  /* .sent::before {
-    content: "";
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    background-color: #f04242;
-    clip-path: polygon(100% 0, 0 0, 0 100%);
-    top: 0;
-  } */
-
-
+}
 
 
   .received {
@@ -191,20 +183,19 @@
 }
 
 
-.received:after{
+.received:after{  
   content: ' ';
   position: absolute;
   width: 0;
   height: 0;
-  left: auto; 
-  right: -16px; 
+  right: auto; 
+  left: -16px; 
   top: 0px;
   bottom: auto;
   border: 20px solid;
-  transform: rotate(-5deg);
+  /* transform: rotate(-5deg); */
   border-color:  #ebf4fb transparent transparent transparent;
 }
-
 
 
 
