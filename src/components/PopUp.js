@@ -3,7 +3,7 @@ import data from './data.json';
 import './PopUp.css';
 
 const PopUp = (props) => {
-  const { imageSrc, onclose, showImage, darkMode } = props;
+  const { userData, onclose, showImage, darkMode } = props;
   const wrong = data["default-image"];
   const pop = data["popup"];
   const darkmode = data["darkmode"];
@@ -26,22 +26,22 @@ const PopUp = (props) => {
     };
   }, [showImage, onclose]);
 
-  if (!showImage || !imageSrc) {
+  if (!showImage || !userData) {
     return null;
   }
 
   return (
     <div className={`image-popup ${darkMode ? 'dark-mode' : ''}`} ref={popupRef}>
       <div className={`popup-content ${darkMode ? 'dark-mode' : ''}`}>
-        <img className="popup-img" src={imageSrc.profile} alt='Profile' />
+        <img className="popup-img" src={userData.profile} alt='Profile' />
         {!darkMode ? (
           <img className='wrong' src={wrong.close} onClick={onclose} alt='close' />
         ) : (
           <img className='wrong' src={darkmode.close} onClick={onclose} alt='close' />
         )}
         <div className="user-info">
-          <h1>{imageSrc.name}</h1>
-          <p>{imageSrc.currentstatus}</p>
+          <h1>{userData.name}</h1>
+          <p>{userData.currentstatus}</p>
         </div>
         <div className='popup-dtl'>
           <div className='pop-item'>

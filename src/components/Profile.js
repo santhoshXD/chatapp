@@ -48,11 +48,12 @@ const Profile = () => {
              "message": `${message}`,
              "messsageid": "msg00001",
              "sender": "000000",
-             "recipient": "000001",
+             "recipient": selectedUser.conversionid,
              "status": "send",
              "time": "2023-10-06 08:32:00"
   }]
         setInput([...chatMsg,...input]);
+        
     };
 
     
@@ -87,7 +88,7 @@ const Profile = () => {
                         <p className={`image-text ${expand ? 'visible' : 'hidden'}`}>
                     {image.name}
                   </p>
-                        <img className='settings' key={image.id} src={image.url} alt='settings' />
+                        <img className='settings' key={image.id} src={image.url} title={image.title} alt='settings' />
                 </div>
                     
                     
@@ -97,9 +98,9 @@ const Profile = () => {
                 <div className="dark-mode-toggle" onClick={toggleDarkMode} >
                     {darkMode ? (
                         
-                        <img className="dark-icons" alt='icon' src={data.darkicon}/>
+                        <img className="dark-icons" alt='icon' src={data.darkicon} title="DarkIcon" />
                     ) : (
-                        <img className="light-icons" alt='icon' src={data.lighticon}/>
+                        <img className="light-icons" alt='icon' src={data.lighticon} title='LightIcon'/>
                     )}
                 </div>
                         
@@ -107,7 +108,7 @@ const Profile = () => {
                             className= 'images2'
                             onClick={handleExpand}>
                             
-                            <img className='settings' src={data.leftsettings} alt='settings'  />
+                            <img className='settings' src={data.leftsettings}  title='Expand' alt='settings'  />
                             
                         </div>
                    

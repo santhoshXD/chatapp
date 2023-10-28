@@ -39,19 +39,6 @@ const ChatHistory = (props) => {
 
     fetchData();
   }, []);
-
-  // useEffect (() => {
-  //   const fetchData = () => {
-  //     fetch('http://127.0.0.1:1234/gethistroy')
-  //       .then((res) => res.json())
-  //       .then((data) => {
-  //         console.log("jsonData", data);
-  //       })
-  //   }
-
-  //   fetchData()
-  // }, [])
-
   const LoadingScreen = () => {
     return (
       <div className='loading-screen'>
@@ -99,7 +86,7 @@ const ChatHistory = (props) => {
         <div className='popup-div'>
           {showImage && (
             <PopUp
-              imageSrc={popupImage}
+              userData={chatData.find((user) => user.profile === popupImage)}
               onclose={() => setPopupImage(false)}
               showImage={showImage}
               users={chatData}
