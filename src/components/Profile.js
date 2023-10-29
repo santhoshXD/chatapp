@@ -82,13 +82,17 @@ const Profile = () => {
                 </div>
                 {images.map((image, index) => (
                     <div
-                        className={`images ${selectedDiv === index ? 'selected' : ''}`}
+                        className={`images ${selectedDiv === index ? 'selected' : ''}  ${expand ? 'expand' : ''}` }
+                       
                         onClick={() => handleDivClick(index)}
                     >
+                      
+                        <img className={`settings ${expand ? 'expand' : ''}`} key={image.id} src={image.url} title={image.title} alt='settings' />
                         <p className={`image-text ${expand ? 'visible' : 'hidden'}`}>
+                            {/* <p className='image-text'> */}
                     {image.name}
-                  </p>
-                        <img className='settings' key={image.id} src={image.url} title={image.title} alt='settings' />
+                       </p>
+                       
                 </div>
                     
                     

@@ -72,9 +72,14 @@
   
  .user-info h1{
     font-size: 20px;
+    color: black;
+    
  }
+
+
  .user-info p{
    font-size: 15px;
+   
 }
 
 .user-info{
@@ -83,3 +88,8 @@
     align-items: center;
     justify-content: center;
 }
+
+.current{
+  color: #364d5d !important;
+}
+

@@ -29,7 +29,7 @@ const SendBox = ({ sendChat, darkMode }) => {
   return (
     <div className={`send-box ${darkMode ? 'dark-mode' : ''}`}>
       <div className='input-container'>
-        <BsEmojiLaughing className='emoji' />
+        <BsEmojiLaughing className= "emoji" />
         <input
           className={`type-msg ${darkMode ? 'dark-mode' : ''}`}
           type='text'

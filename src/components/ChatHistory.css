@@ -32,11 +32,11 @@
 }
 
 
-.chat-history p{
-  color: #364d5d;
-  font-family: Arial, Helvetica, sans-serif;
-  
-}
+  .chat-history p{
+    color: #364d5d;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
 
 .chat-history h5{
   font-family: Arial, Helvetica, sans-serif;
@@ -52,6 +52,7 @@
   background: #364d5d;
   border-radius: 10px;
 }
+
 
 
 .chat-history::-webkit-scrollbar-thumb:hover {
@@ -159,18 +160,18 @@
 
 
 .chat-history.dark-mode p{
-  color: whitesmoke !important;
-}
+  color: whitesmoke ;
+} 
 
 
 .time{
   /* background-color: aqua; */
   padding-top: 5px;
   width: 100% ;
-  color:#364d5d !important;
+  /* color:#364d5d !important; */
   text-align: right;
 }
 
 .time.dark-mode{
-  color: white !important;
+  color: white ;
 }

@@ -48,7 +48,13 @@
   
 .message.received{
   margin-left: 20px;
+  
 
+}
+
+.message.sent{
+  margin-right: 20px;
+  min-width: 80px;
 }
 
 
@@ -96,9 +102,9 @@
     background: #202a3f; 
   }
 
-  .message-box.dark-mode::-webkit-scrollbar-thumb{
+  /* .message-box.dark-mode::-webkit-scrollbar-thumb{
     background: white;
-  }
+  } */
 
   .default-img{
     padding-left: 30%;
@@ -174,8 +180,8 @@
 	position: absolute;
 	width: 0;
 	height: 0;
-  left: -16px;
-	right: auto;
+  right: -16px;
+	left: auto;
   top: 0px;
 	bottom: auto;
 	border: 20px solid;

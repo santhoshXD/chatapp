@@ -1,12 +1,9 @@
 .top-div {
-    height:90%;
+    height: 90%;
     display: flex;
     padding-left: 10px;
     padding-top: 10px;
-    /* background-color: #e2eef7; */
     border-bottom: 1px solid #dbe6ef;
-    
-    
 }
 
 .top-name.dark-mode h2 {
@@ -59,16 +56,25 @@ p {
 
 .top-icons{
     display: flex;
-    padding-top:5px ;
-    position: absolute;
-    right: 40px;   
+    align-items: center;  
+    justify-content: space-between;
+    padding-bottom: 20px;
+    width: 80%;
+    min-width: 80%;
+    justify-content: flex-end;
+    gap: 20px;
+    
+    
 }
 
 .top-icons.dark-mode{
     display: flex;
-    position: absolute;
-    right: 40px;  
-
+    align-items: center;  
+    justify-content: space-between;
+    padding-bottom: 20px;
+    width: 80%;
+    justify-content: flex-end;
+    gap: 20px;
 }
 
 .phone, .video{
